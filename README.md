@@ -7,10 +7,9 @@
 - 💬 Ask me about **react,Laravel**
 
 - 📫 How to reach me **soukaynazaidi06@gmail.com**
-
-  <img src='cat2.png' height='100px' >
-
 <h3 align="left">Connect with me:</h3>
+<img src='cat2.png' height='100px' >
+  
 <p align="left">
 <a href="https://linkedin.com/in/soukayna zaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soukayna zaidi" height="30" width="40" /></a>
 </p>
