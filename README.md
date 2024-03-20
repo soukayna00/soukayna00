@@ -1,6 +1,7 @@
 # soukaynaZaidi
 <h1 align="center">Hi 👋, I'm soukayna Zaidi</h1>
-<h3 align="center">A driven 24-year-old Fullstack developer from Morocco, passionate about experimenting with web development tools and collaborating within teams to bring ideas to life.</h3>
+<h2 align="center">A driven 24-year-old Fullstack developer from Morocco, passionate about experimenting with web development tools and collaborating within teams to bring ideas to life.</h2>
+<img src='cat2.png' height='100px' >
 
 - 🌱 I’m currently learning **Rest Api and Docker**
 
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **soukaynazaidi06@gmail.com**
 <h3 align="left">Connect with me:</h3>
-<img src='cat2.png' height='100px' >
+
   
 <p align="left">
 <a href="https://linkedin.com/in/soukayna zaidi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soukayna zaidi" height="30" width="40" /></a>
