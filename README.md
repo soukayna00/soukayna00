@@ -1,6 +1,6 @@
 # soukaynaZaidi
 <h1 align="center">Hi 👋, I'm soukayna Zaidi</h1>
-<h2 align="center">A driven 24-year-old Fullstack developer from Morocco, passionate about experimenting with web development tools and collaborating within teams to bring ideas to life.</h2>
+<h2 align="center">A driven 25-year-old Fullstack developer from Morocco, passionate about experimenting with web development tools and collaborating within teams to bring ideas to life.</h2>
 <img src='cat2.png' height='100px' >
 
 - 🌱 I’m currently learning **Rest Api and Docker**
