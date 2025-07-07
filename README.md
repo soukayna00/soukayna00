@@ -1,5 +1,5 @@
 # Soukayna Zaidi
-<h1 align="center">Hi 👋, I'm soukayna Zaidi</h1>
+<h1 align="center">Hi 👋, I'm  Zaidi Soukayna </h1>
 <h2 align="center">A driven 25-year-old Fullstack developer from Morocco, passionate about experimenting with web development tools and collaborating within teams to bring ideas to life.</h2>
 <img src='cat2.png' height='100px' >
 
