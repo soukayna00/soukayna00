@@ -1,11 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm  Zaidi Soukayna </h1>
-<h2 align="center">A driven 25-year-old Fullstack developer from Morocco, passionate about experimenting with web development tools and collaborating within teams to bring ideas to life.</h2>
+<h2 align=center >AI Engineer in training | Python | ML | Data Science</h2>
+<h4 align="center">A driven 25-year-old Fullstack developer from Morocco, passionate about experimenting with web development tools and collaborating within teams to bring ideas to life.</h4>
 <img src='cat2.png' height='100px' >
 
-- 🌱 I’m currently learning **Rest Api and Docker**
-
-- 💬 Ask me about **react,Laravel**
+- 🌱 I’m currently learning **AI and Linux**
 
 - 📫 How to reach me **soukaynazaidi06@gmail.com**
 <h3 align="left">Connect with me:</h3>
