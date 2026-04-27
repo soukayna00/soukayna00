@@ -25,8 +25,6 @@ I enjoy exploring new technologies, experimenting with AI models, and collaborat
 |----------|--------------|-------------|
 | 🛍️ [MounaShop](https://github.com/soukayna00/MounaShop) | E-commerce platform with admin dashboard, authentication, and product management. | Laravel · MySQL |
 | 💬 [Mini-Projet React](https://github.com/soukayna00/Mini_projet-React) | Dynamic front-end React project with routing and reusable components. | React · JavaScript |
-| 🤖 [AI Text Summarizer (WIP)](https://github.com/soukayna00/ai-text-summarizer) | Flask-based API for generating concise text summaries using NLP. | Python · Flask · NLP |
-| 🧩 [PHP Learning Repo](https://github.com/soukayna00/php-learning) | Series of exercises and mini-projects for mastering PHP fundamentals. | PHP |
 
 ---
 
