@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Zaidi Soukayna</h1>
-<h2 align="center">💻 Full Stack Developer | 🧠 AI Engineer in Training | 🎓 Software Engineering Student</h2>
-
+<h2 align="center">💻 Full Stack Developer</h2>
 <h4 align="center">
 I'm a 25-year-old developer from Morocco, passionate about building intelligent, data-driven, and user-focused web applications.  
 I enjoy exploring new technologies, experimenting with AI models, and collaborating with others to bring creative ideas to life.
@@ -11,6 +10,11 @@ I enjoy exploring new technologies, experimenting with AI models, and collaborat
 </p>
 
 ---
+## 📍 Quick Overview
+- 📚 Software Engineering Student
+- 💼 Actively seeking opportunities
+- 🌍 Based in Morocco | Open to remote
+- ⚡ 42 repositories | 30+ stars## 
 
 ### 🌱 Currently Learning
 - Artificial Intelligence (Machine Learning, Deep Learning, NLP)
@@ -18,6 +22,9 @@ I enjoy exploring new technologies, experimenting with AI models, and collaborat
 - Scalable Backend Architectures
 
 ---
+## 🎯 What I'm Building Toward
+Creating AI-powered solutions in Digital forensics
+
 
 ### 🚀 Featured Projects
 
