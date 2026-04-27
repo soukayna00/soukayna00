@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Zaidi Soukayna</h1>
-<h2 align="center">💻 Full Stack Developer</h2>
+<h2 align="center">💻 Full Stack Developer | Aspiring Forensic AI Specialist</h2>
 <h4 align="center">
 I'm a 25-year-old developer from Morocco, passionate about building intelligent, data-driven, and user-focused web applications.  
 I enjoy exploring new technologies, experimenting with AI models, and collaborating with others to bring creative ideas to life.
@@ -23,34 +23,53 @@ I enjoy exploring new technologies, experimenting with AI models, and collaborat
 
 ---
 ## 🎯 What I'm Building Toward
-Creating AI-powered solutions in Digital forensics
+Creating AI-powered solutions in AI for Investigations & Digital Forensics  
 
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| 🛍️ [MounaShop](https://github.com/soukayna00/MounaShop) | E-commerce platform with admin dashboard, authentication, and product management. | Laravel · MySQL |
-| 💬 [Mini-Projet React](https://github.com/soukayna00/Mini_projet-React) | Dynamic front-end React project with routing and reusable components. | React · JavaScript |
-
----
 
 ### 🧠 Languages & Tools
 
+**Frontend:**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+  <a href="#" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/></a>
+  <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/></a>
+  <a href="#" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/></a>
+  <a href="#" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60"/></a>
+  <a href="#" title="Vue.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60"/></a>
+  <a href="#" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/></a>
+  <a href="#" title="Tailwind CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60"/></a>
 </p>
+
+**Backend:**
+<p align="center">
+  <a href="#" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/></a>
+  <a href="#" title="PHP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60"/></a>
+  <a href="#" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/></a>
+  <a href="#" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60"/></a>
+  <a href="#" title="Laravel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="60" height="60"/></a>
+  <a href="#" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/></a>
+  <a href="#" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60"/></a>
+</p>
+
+**Databases:**
+<p align="center">
+  <a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a>
+  <a href="#" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/></a>
+  <a href="#" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/></a>
+</p>
+
+**DevOps & Tools:**
+<p align="center">
+  <a href="#" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60"/></a>
+  <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="60" height="60"/></a>
+  <a href="#" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/></a>
+</p>
+
+**Design & CMS:**
+<p align="center">
+  <a href="#" title="Figma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60" height="60"/></a>
+  <a href="#" title="WordPress"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="60" height="60"/></a>
+</p>
+
 
 ---
 
