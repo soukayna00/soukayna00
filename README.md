@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Zaidi Soukayna</h1>
-<h2 align="center">💻 Full Stack Developer | Aspiring Forensic AI Specialist</h2>
+<h2 align="center">💻 Full Stack Developer</h2>
 <h4 align="center">
-I'm a 25-year-old developer from Morocco, passionate about building intelligent, data-driven, and user-focused web applications.  
+I'm a 26-year-old developer from Morocco, passionate about building intelligent, data-driven, and user-focused web applications.  
 I enjoy exploring new technologies, experimenting with AI models, and collaborating with others to bring creative ideas to life.
 </h4>
 
