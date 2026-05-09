@@ -5,9 +5,7 @@ I'm a 26-year-old developer from Morocco, passionate about building intelligent,
 I enjoy exploring new technologies, experimenting with AI models, and collaborating with others to bring creative ideas to life.
 </h4>
 
-<p align="center">
-  <img src="cat2.png" height="100px">
-</p>
+
 
 ---
 ## 📍 Quick Overview
