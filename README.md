@@ -1,97 +1,124 @@
-<h1 align="center">👋 Hi, I'm Zaidi Soukayna</h1>
-<h2 align="center">💻 Full Stack Developer</h2>
-<h4 align="center">
-I'm a 26-year-old developer from Morocco, passionate about building intelligent, data-driven, and user-focused web applications.  
-I enjoy exploring new technologies, experimenting with AI models, and collaborating with others to bring creative ideas to life.
-</h4>
+# Zaidi Soukayna
 
+<div align="center">
 
+### Full Stack Developer | AI & Cybersecurity Enthusiast
 
----
-## 📍 Quick Overview
-- 📚 Software Engineering Student
-- 💼 Actively seeking opportunities
-- 🌍 Based in Morocco | Open to remote
-- ⚡ 42 repositories | 30+ stars## 
+Building intelligent, data-driven applications with clean code and innovative solutions.  
+🌍 **Morocco** | 🚀 **Open to Remote** | 💼 **Actively Growing**
 
-### 🌱 Currently Learning
-- Artificial Intelligence (Machine Learning, Deep Learning, NLP)
-- Linux & Shell Scripting
-- Scalable Backend Architectures
-
----
-## 🎯 What I'm Building Toward
-Creating AI-powered solutions in AI for Investigations & Digital Forensics  
-
-
-### 🧠 Languages & Tools
-
-**Frontend:**
-<p align="center">
-  <a href="#" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="60" height="60"/></a>
-  <a href="#" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="60" height="60"/></a>
-  <a href="#" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60"/></a>
-  <a href="#" title="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60"/></a>
-  <a href="#" title="Vue.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="60" height="60"/></a>
-  <a href="#" title="Bootstrap"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/></a>
-  <a href="#" title="Tailwind CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60"/></a>
-</p>
-
-**Backend:**
-<p align="center">
-  <a href="#" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60"/></a>
-  <a href="#" title="PHP"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60"/></a>
-  <a href="#" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60"/></a>
-  <a href="#" title="C"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="60" height="60"/></a>
-  <a href="#" title="Laravel"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="60" height="60"/></a>
-  <a href="#" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60"/></a>
-  <a href="#" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="60" height="60"/></a>
-</p>
-
-**Databases:**
-<p align="center">
-  <a href="#" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/></a>
-  <a href="#" title="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/></a>
-  <a href="#" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60"/></a>
-</p>
-
-**DevOps & Tools:**
-<p align="center">
-  <a href="#" title="Docker"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60"/></a>
-  <a href="#" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="60" height="60"/></a>
-  <a href="#" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60"/></a>
-</p>
-
-**Design & CMS:**
-<p align="center">
-  <a href="#" title="Figma"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60" height="60"/></a>
-  <a href="#" title="WordPress"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="60" height="60"/></a>
-</p>
-
+</div>
 
 ---
 
-### 📫 Connect with Me
+## 🎯 About Me
 
+I'm a **Software Engineering Student** passionate about full-stack development with a growing focus on **AI and Cybersecurity**. I believe the best software comes from understanding both the technical complexity and human experience.
+
+**What fuels my work:**
+- 🧠 Designing intelligent systems that solve meaningful problems
+- 🎨 Crafting seamless user experiences with solid architectural foundations
+- 🔧 Staying ahead with emerging technologies and industry best practices
+- 🤝 Building with teams to turn ambitious ideas into reality
+
+**Quick Stats:** 42 repositories • 30+ stars • Continuous learner
+
+---
+
+## 💪 Technical Toolkit
+
+### Frontend Development
 <p align="center">
-  <a href="mailto:soukaynazaidi06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/soukayna-zaidi-00077027b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.kaggle.com/soukaynazaidi" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"></a>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p>
+
+### Backend Development
+<p align="center">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
+
+### Databases & Storage
+<p align="center">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+### DevOps & Tools
+<p align="center">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soukayna00&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soukayna00&layout=compact&theme=tokyonight" alt="Top languages" height="160">
-</p>
+## 🌱 Currently Learning & Growing
+
+<div align="center">
+
+| Focus Area | Status |
+|-----------|--------|
+| **Java** | Deep Dive |
+| **Scalable Backend Architectures** | Exploring |
+| **Linux & Shell Scripting** | Building Foundation |
+| **Cybersecurity Fundamentals** | Investigation Phase |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</p>
+## 🚀 What I'm Building Toward
 
-<p align="center">
-  <b>“Code is how I express logic; creativity is how I make it human.”</b>
-</p>
+Creating **AI-powered security solutions** that protect systems, detect threats, and empower organizations. I'm committed to bridging the gap between cutting-edge AI technology and real-world cybersecurity challenges.
+
+My vision: Technology that's both intelligent and secure, built with integrity and impact.
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soukayna00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc&title_color=58a6ff)](https://github.com/soukayna00)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soukayna00&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&text_color=c9cacc&title_color=58a6ff)](https://github.com/soukayna00)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+**I'm always interested in collaborations, new projects, and learning opportunities.**
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:soukaynazaidi06@gmail.com)](mailto:soukaynazaidi06@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/soukayna-zaidi-00077027b/)](https://www.linkedin.com/in/soukayna-zaidi-00077027b/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https://www.kaggle.com/soukaynazaidi)](https://www.kaggle.com/soukaynazaidi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/soukayna00)](https://github.com/soukayna00)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Code is logic, creativity is the soul.
+
+</div>
